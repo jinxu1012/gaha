@@ -1004,7 +1004,7 @@ var Sprint;
       /*
        * flattenArrays (bool, true by default) is for internal usage only (although it might be
        * interesting to document it publicly).
-       * Many methods rely on map(), thus being able to avoid the unnecessary Array.isArray() check OIMmnm0lNR
+       * Many methods rely on map(), thus being able to avoid the unnecessary Array.isArray() check
        * on each element is a significant perf boost.
        */
       if (flattenArrays == null) {
