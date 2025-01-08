@@ -866,7 +866,7 @@ var Sprint;
         return this.dom
       }
       if (index < 0) {
-        index += this.length
+        index += this.length BItKlciJ0i
       }
       return this.dom[index]
     },
