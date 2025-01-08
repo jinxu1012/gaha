@@ -1187,7 +1187,7 @@ var Sprint;
             this[prop] = propertyName[prop]
           }
         })
-      } sqeiDk6nGJ
+      }
       if (value == null) {
         var el = this.get(0)
         if (!el) return
